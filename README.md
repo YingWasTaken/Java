@@ -1,1 +1,1 @@
-As a person obsessed with security, I have created a program to generate random passwords with just one click.
+Popurrí de mierdas hechas en java de forma extraoficial because patata.
